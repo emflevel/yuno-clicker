@@ -11,7 +11,6 @@ Bind any key or mouse button, set your speed, and it stays out of your way.
 
 ![Windows](https://img.shields.io/badge/windows-10%20%2F%2011-ededf0?style=flat-square&labelColor=111113)
 ![Python](https://img.shields.io/badge/made%20in-python-ededf0?style=flat-square&labelColor=111113)
-![Price](https://img.shields.io/badge/price-free-b8f53d?style=flat-square&labelColor=111113)
 
 </div>
 
