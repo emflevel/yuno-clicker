@@ -11,6 +11,7 @@ Bind any key or mouse button, set your speed, and it stays out of your way.
 
 ![Windows](https://img.shields.io/badge/windows-10%20%2F%2011-ededf0?style=flat-square&labelColor=111113)
 ![Python](https://img.shields.io/badge/made%20in-python-ededf0?style=flat-square&labelColor=111113)
+[![License](https://img.shields.io/badge/license-GPL--3.0-ededf0?style=flat-square&labelColor=111113)](LICENSE)
 
 </div>
 
@@ -89,6 +90,24 @@ Some online games ban autoclickers, so check a game's rules before using it ther
 pip install pynput
 pythonw yuno_clicker.pyw
 ```
+
+---
+
+### `// license`
+
+Yuno Clicker is licensed under **[GPL-3.0](LICENSE)**.
+
+**You can** use it, read the code, change it and share it, for free.
+
+**But if you share a version that uses this code**, you have to:
+
+- keep it under GPL-3.0
+- release its full source code
+- keep the original copyright and credit to emflevel
+
+That means nobody can take this code and turn it into a closed-source program. Anything built from it has to stay open source and credit the original.
+
+See the [LICENSE](LICENSE) file for the full terms.
 
 ---
 
